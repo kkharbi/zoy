@@ -1,0 +1,6 @@
+owner=298633171128418304
+prefix=z
+game=Break | zplay
+stayinchannel=true
+songinstatus=false
+token=NTQ1OTA3MjkxMjc1MjY0MDAx.D0giBg.Ixb8Klb7nQ1m3Mb7lwe8CMKJkAc
